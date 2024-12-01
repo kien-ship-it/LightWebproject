@@ -1,6 +1,8 @@
 # Adafruit 60 LED Light Strip Control via Website  
 
 This project demonstrates how to control an **Adafruit 60 LED RGB light strip** using a website. The ESP32 microcontroller serves as both the **web server** and the LED controller.  
+<img width="1291" alt="Screenshot 2024-12-02 at 01 09 59" src="https://github.com/user-attachments/assets/eb4a4de2-80e0-4945-b93a-67a4e3b59d70">
+
 
 ## Features  
 1. **Rainbow Mode**: Automatically cycles through a spectrum of vibrant colors.  
